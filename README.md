@@ -1,2 +1,2 @@
-# crossroad-currents
+# crossroad-log
 personal blog
